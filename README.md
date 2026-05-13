@@ -14,10 +14,15 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/steipete)
 
-<!--
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+- 🔭 I’m currently working on a few concurrent projects:
+* enhancing AI coding agents with AST-based tooling
+* An AI secretary to help me spend less time on social media and messaging apps while staying on top of important communications
+* an immersion-based language learning video game
+* Sokoban-style video games
+* Google workspace to GitHub Pages website builder
+<!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
