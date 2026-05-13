@@ -17,11 +17,11 @@
 
 
 - 🔭 I’m currently working on a few concurrent projects:
-* enhancing AI coding agents with AST-based tooling
-* An AI secretary to help me spend less time on social media and messaging apps while staying on top of important communications
-* an immersion-based language learning video game
-* Sokoban-style video games
-* Google workspace to GitHub Pages website builder
+  * enhancing AI coding agents with AST-based tooling
+  * An AI secretary to help me spend less time on social media and messaging apps while staying on top of important communications
+  * an immersion-based language learning video game
+  * Sokoban-style video games
+  * Google workspace to GitHub Pages website builder
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
