@@ -13,7 +13,7 @@
 
 Lately I've been reconnecting with all the things, aside from computers, that I loved in childhood. 
 
-* Making and appreciating art<sup><a href="/#art">1</a></sup>
+* Making and appreciating art<sup><a href="#art">1</a></sup>
 * Dancing (been really into shuffle lately)
 * Japanese language/culture
 * Science and math
