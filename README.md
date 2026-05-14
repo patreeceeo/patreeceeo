@@ -17,7 +17,7 @@ Lately I've been reconnecting with all the things, aside from computers, that I 
 * <details><summary>Dancing</summary>I've been practicing shuffle, hip hop, and Irish dancing.</details>
 * [Japanese language/culture](https://patrek.micro.blog/categories/japan/)
 * Science and math
-* Being a silly billy i.e. clowning
+* Being a silly billy e.g. [clowning](https://luma.com/clourch-1fd3?tk=zYW74m)
 * <details><summary>Animals</summary>I'm proud cat dad of two Abyssinian cats</details>
 
 - 🌱 I’m currently working on testing the limits of what's possible with AI. I'm planning to work on a few projects at once:
