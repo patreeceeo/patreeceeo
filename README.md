@@ -21,9 +21,9 @@ Lately I've been reconnecting with all the things, aside from computers, that I 
 * <details><summary>Animals</summary>I'm proud cat dad of two Abyssinian cats</details>
 
 - 🌱 I’m currently working on testing the limits of what's possible with AI. I'm planning to work on a few projects at once:
-  * create an in-person immersive interactive experience with Touch Designer and whatever kind of input HW I can acquire on the cheap.
-  * An AI secretary to help me spend less time on social media and messaging apps while staying on top of important communications
-  * An immersion-based language learning video game
+  * In-person immersive interactive experience with Touch Designer and whatever kind of input HW I can acquire on the cheap.
+  * AI secretary to help me spend less time on social media and messaging apps while staying on top of important communications
+  * Immersion-based language learning video game
   * Something to help people find jobs/gigs in San Francisco
 - 👯 I’m looking to collaborate on any of the above.
 - 🤔 I’m looking for help with all things business and marketing.
