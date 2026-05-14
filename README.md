@@ -13,11 +13,11 @@
 
 ## GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/steipete)
+![GitHub Contribution Graph](https://ghchart.rshah.org/patreeeceeo)
 
 Lately I've been reconnecting with all the things, aside from computers, that I loved in childhood. 
 
-* Making and appreciating art (my definition of art is expansive, including video games and creative coding as well as traditional fine art)
+* Making and appreciating art<sup><a href="/#art">1</a></sup>
 * Dancing (been really into shuffle lately)
 * Japanese language/culture
 * Science and math
@@ -34,6 +34,8 @@ Lately I've been reconnecting with all the things, aside from computers, that I 
 - 🌱 I’m currently learning how to leverage AI.
 - 👯 I’m looking to collaborate on any of the above.
 - 🤔 I’m looking for help with all things business and marketing.
+
+<a anchor="art">1.</a> My definition of art is expansive, including video games and creative coding as well as traditional fine art
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
