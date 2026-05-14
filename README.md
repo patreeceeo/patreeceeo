@@ -29,7 +29,7 @@ Lately I've been reconnecting with all the things, aside from computers, that I 
 - 🤔 I’m looking for help with all things business and marketing.
 
 My main website is <https://zzt64.com>. At the time of writing it's a little out of date. Will get to that soon, too.
-I'm also on [LinkedIn](https://linkedin.com/in/patrick-lee-canfield) and [Instagram](https://instagram.com/patreecee).
+I'm also on [LinkedIn](https://linkedin.com/in/patrick-lee-canfield) and [Instagram](https://instagram.com/patreeceeo).
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
