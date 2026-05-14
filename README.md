@@ -13,12 +13,12 @@
 
 Lately I've been reconnecting with all the things, aside from computers, that I loved in childhood. 
 
-* Making and appreciating art<sup><a href="#art">1</a></sup>
-* Dancing (been really into shuffle lately)
-* Japanese language/culture
+* <details><summary>Making and appreciating art</summary>My definition of art is expansive, including video games and creative coding as well as traditional fine art. I just installed Touch Designer on Linux, excited to play around with that.</details>
+* <details><summary>Dancing</summary>I've been practicing shuffle, hip hop, and Irish dancing.</details>
+* [Japanese language/culture](https://patrek.micro.blog/categories/japan/)
 * Science and math
 * Being a silly billy i.e. clowning
-* Animals (I'm proud cat dad of two Abyssinian cats)
+* <details><summary>Animals</summary>I'm proud cat dad of two Abyssinian cats</details>
 
 - 🔭 I’m currently working on a few concurrent projects:
   * enhancing AI coding agents with AST-based tooling
@@ -31,7 +31,6 @@ Lately I've been reconnecting with all the things, aside from computers, that I 
 - 👯 I’m looking to collaborate on any of the above.
 - 🤔 I’m looking for help with all things business and marketing.
 
-<a anchor="art">1.</a> My definition of art is expansive, including video games and creative coding as well as traditional fine art
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
