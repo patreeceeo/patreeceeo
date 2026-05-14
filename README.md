@@ -15,7 +15,13 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/steipete)
 
+Lately I've been reconnecting with all the things, aside from computers, that I loved in childhood. 
 
+* Making and appreciating art (my definition of art is expansive, including video games and creative coding as well as traditional fine art)
+* Dancing (been really into shuffle lately)
+* Japanese language/culture
+* Science
+* Animals (I'm proud cat dad of two Abyssinian cats)
 
 - 🔭 I’m currently working on a few concurrent projects:
   * enhancing AI coding agents with AST-based tooling
