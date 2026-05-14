@@ -20,6 +20,8 @@ Lately I've been reconnecting with all the things, aside from computers, that I 
 * Being a silly billy e.g. [clowning](https://luma.com/clourch-1fd3?tk=zYW74m)
 * <details><summary>Animals</summary>I'm proud cat dad of two Abyssinian cats</details>
 
+But, as far as computers go...
+
 - 🌱 I’m currently working on testing the limits of what's possible with AI. I'm planning to work on a few projects at once:
   * In-person immersive interactive experience with Touch Designer and whatever kind of input HW I can acquire on the cheap.
   * AI secretary to help me spend less time on social media and messaging apps while staying on top of important communications
