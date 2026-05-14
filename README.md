@@ -20,17 +20,15 @@ Lately I've been reconnecting with all the things, aside from computers, that I 
 * Being a silly billy i.e. clowning
 * <details><summary>Animals</summary>I'm proud cat dad of two Abyssinian cats</details>
 
-- 🔭 I’m currently working on a few concurrent projects:
-  * enhancing AI coding agents with AST-based tooling
+- 🌱 I’m currently working on testing the limits of what's possible with AI. I'm planning to work on a few projects at once:
+  * create an in-person immersive interactive experience with Touch Designer and whatever kind of input HW I can acquire on the cheap.
   * An AI secretary to help me spend less time on social media and messaging apps while staying on top of important communications
-  * an immersion-based language learning video game
-  * Sokoban-style video games
-  * Google workspace to GitHub Pages website builder
-  * Multiplayer DAW
-- 🌱 I’m currently learning how to leverage AI.
+  * An immersion-based language learning video game
+  * Something to help people find jobs/gigs in San Francisco
 - 👯 I’m looking to collaborate on any of the above.
 - 🤔 I’m looking for help with all things business and marketing.
 
+My main website is <https://zzt64.com>. At the time of writing it's a little out of date. Will get to that soon, too.
 <!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
