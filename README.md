@@ -20,7 +20,8 @@ Lately I've been reconnecting with all the things, aside from computers, that I 
 * Making and appreciating art (my definition of art is expansive, including video games and creative coding as well as traditional fine art)
 * Dancing (been really into shuffle lately)
 * Japanese language/culture
-* Science
+* Science and math
+* Being a silly billy i.e. clowning
 * Animals (I'm proud cat dad of two Abyssinian cats)
 
 - 🔭 I’m currently working on a few concurrent projects:
