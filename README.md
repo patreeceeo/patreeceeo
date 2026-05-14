@@ -11,10 +11,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/patreeeceeo)
-
 Lately I've been reconnecting with all the things, aside from computers, that I loved in childhood. 
 
 * Making and appreciating art<sup><a href="/#art">1</a></sup>
